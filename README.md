@@ -2,18 +2,25 @@
 
 <h1> Week 1-3 </h1>
 
-<h3> Chest & Back \\ Abs </h3>
-<h3> Plyometrics </h3>
-<h3> Shoulders & Arms \\ Abs </h3>
-<h3> Yoga </h3>
-<h3> Kenpo X </h3>
-<h3> Rest / Stretch / Off </h3>
+<h4>Chest & Back \\ Abs </h4>
+<h4> Plyometrics </h4>
+<h4> Shoulders & Arms \\ Abs </h4>
+<h4> Yoga </h4>
+<h4> Kenpo X </h4>
+<h4> Rest \ Stretch \ Off </h4>
+<br>
+</br>
 
 
+<h1> Rest Week </h1>
+<h4> rest or do yoga all week </h4>
+
+<br>
+</br>
 <h1> Week 4 </h1>
-<h2> Chest & Back \\ Abs </h2>
-<h2> Plyometrics </h2>
-<h2> Shoulders & Arms \\ Abs </h2>
-<h2> Yoga </h2>
-<h2> Kenpo X </h2>
-<h2> Rest / Stretch / Off </h2>
+<h4> Chest & Shoulders & Tripceps \\ Abs </h4>
+<h4> Plyometrics </h4>
+<h4> Back & Biceps \\ Abs </h4>
+<h4> Yoga </h4>
+<h4> Legs & Back \\ Abs </h4>
+<h4> Rest \ Stretch \ Off  </h4>
