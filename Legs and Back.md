@@ -40,9 +40,9 @@ water break
 18. Wide Front Pull-Ups
 19. Groucho Walk
 20. Calf raises 
-  a. Toes Out
-  b. Toes Parallel
-  c. Toes In
+  <p>a. Toes Out</p>
+  <p>b. Toes Parallel</p>
+  <p>c. Toes In</p>
 21. Closed Grip Overhand Pull-Ups
 22. 80/20 Siebers-Speed Squats 
 23. Switch Grip Pull-Ups
