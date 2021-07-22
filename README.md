@@ -22,8 +22,15 @@
 <h4> Plyometrics </h4>
 
 <h4> Back & Biceps \\ Abs </h4>
-<a href="https://github.com/kcall174/p90x/blob/main/Back%20and%20Biceps.md" title="Back and Biceps">Back and Biceps</a>
+<a href="https://github.com/kcall174/p90x/blob/main/Back%20and%20Biceps.md" title="Excerise List">Exercise List</a>
+<p>
+ </p>
+ 
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.10.Back.Biceps.avi" title="Video">Workout Video</a>
 
+<p>
+  </p>
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.10.Back.Biceps.avi" title="Video">Ab Ripper X</a>
 
 <h4> Yoga </h4>
 <h4> Legs & Back \\ Abs </h4>
