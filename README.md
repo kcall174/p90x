@@ -26,12 +26,15 @@
 <p>
  </p>
  
-<a href="https://archive.org/details/p90x_20200810/P90X.DISC.10.Back.Biceps.avi" title="Video">Workout Video</a>
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.10.Back.Biceps.avi" title="Video">Back and Bicep</a>
 
 <p>
   </p>
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.10.Back.Biceps.avi" title="Video">Ab Ripper X</a>
 
 <h4> Yoga </h4>
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.04.Yoga.X.avi" title="Video">Yoga X</a>
+
+
 <h4> Legs & Back \\ Abs </h4>
 <h4> Rest \ Stretch \ Off  </h4>
