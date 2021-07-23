@@ -8,11 +8,32 @@
 <h2> Week 1-3 </h2>
 
 <h4>Chest & Back \\ Abs </h4>
+<!-- insert videos and stuff
+--->
+
+<p>
+ </p>
+ 
 <h4> Plyometrics </h4>
+<!-- insert videos and stuff
+--->
+
 <h4> Shoulders & Arms \\ Abs </h4>
+<!-- insert videos and stuff
+--->
+
 <h4> Yoga </h4>
+<!-- insert videos and stuff
+--->
+
 <h4> Kenpo X </h4>
+<!-- insert videos and stuff
+--->
+
 <h4> Rest \ Stretch \ Off </h4>
+<!-- insert videos and stuff
+--->
+
 <br>
 </br>
 
