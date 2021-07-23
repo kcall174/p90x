@@ -20,8 +20,11 @@
 <h1> Week 5-7 </h1>
 <h4> Chest & Shoulders & Tripceps \\ Abs </h4>
 <h4> Plyometrics </h4>
-<a href="https://archive.org/details/p90x_20200810/P90X.DISC.05.Legs.And.Back.avi" title="Video">Plyometrics</a>
+<a href="https://github.com/kcall174/p90x/blob/main/Plyometrics.md" title="Video">Plyometrics</a>
 
+<p>
+ </p>
+ 
 <h4> Back & Biceps \\ Abs </h4>
 <a href="https://github.com/kcall174/p90x/blob/main/Back%20and%20Biceps.md" title="Excerise List">Exercise List</a>
 <p>
