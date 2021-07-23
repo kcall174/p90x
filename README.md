@@ -1,4 +1,5 @@
-<h1> P90X </h1>
+
+<div style="text-align:center"><img src="https://logonoid.com/images/p90x-logo.png" /></div>
 
 <br>
 </br>
