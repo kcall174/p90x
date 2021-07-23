@@ -47,5 +47,3 @@ end with ab ripper x
 </br>
 
 <h4> FINISHED :) </h4>
-26. 
-27. 
