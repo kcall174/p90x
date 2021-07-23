@@ -37,6 +37,11 @@
 
 
 <h4> Legs & Back \\ Abs </h4>
+<a href="https://github.com/kcall174/p90x/blob/main/Legs%20and%20Back.md" title="Excerise List">Exercise List</a>
+
+<p>
+ </p>
+ 
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.05.Legs.And.Back.avi" title="Video">Legs and Back</a>
 
 <p>
