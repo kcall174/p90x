@@ -15,8 +15,10 @@
  </p>
  
 <h4> Plyometrics </h4>
-<!-- insert videos and stuff
---->
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.02.Plyometrics.avi" title="Video">Plyometrics</a>
+<p>
+ </p>
+<a href="https://github.com/kcall174/p90x/blob/main/Plyometrics.md" title="Excerise List">Exercise List</a>
 
 <p>
  </p>
