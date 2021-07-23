@@ -13,11 +13,14 @@
 
 
 <h1> Rest Week (4)</h1>
+
 <h4> rest or do yoga all week </h4>
 
 <br>
 </br>
+
 <h1> Week 5-7 </h1>
+
 <h4> Chest & Shoulders & Tripceps \\ Abs </h4>
 <h4> Plyometrics </h4>
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.02.Plyometrics.avi" title="Video">Plyometrics</a>
