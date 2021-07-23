@@ -1,9 +1,9 @@
-# P90x
---------------------------------------------------------------
+<h1> P90X </h1>
+
 <br>
 </br>
 
-<h1> Week 1-3 </h1>
+<h2> Week 1-3 </h2>
 
 <h4>Chest & Back \\ Abs </h4>
 <h4> Plyometrics </h4>
@@ -15,14 +15,14 @@
 </br>
 
 
-<h1> Rest Week (4)</h1>
+<h2> Rest Week (4)</h2>
 
 <h4> rest or do yoga all week </h4>
 
 <br>
 </br>
 
-<h1> Week 5-7 </h1>
+<h2> Week 5-7 </h2>
 
 <h4> Chest & Shoulders & Tripceps \\ Abs </h4>
 <h4> Plyometrics </h4>
