@@ -1,6 +1,6 @@
 <!--- html dawg (soon to be python?)
 --->
-<div style="text-align:center"><img src="https://logonoid.com/images/p90x-logo.png" /></div>
+<div style="text-align:center"><img src="https://logonoid.com/images/p90x-logo.png"></div>
 
 <br>
 </br>
