@@ -51,7 +51,6 @@
 <br>
 </br>
 
-
 <h2> Rest Week (4)</h2>
 
 <h4> rest or do yoga all week </h4>
