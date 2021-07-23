@@ -63,6 +63,7 @@
 <h4> Chest & Shoulders & Tripceps \\ Abs </h4>
 <!-- insert videos and stuff
 --->
+<a href="https://github.com/kcall174/p90x/blob/main/Chest,%20Shoulders,%20Triceps.md" title="Excerise List">Exercise List</a>
 
 <p>
  </p>
