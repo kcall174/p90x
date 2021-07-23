@@ -10,6 +10,7 @@
 <h4>Chest & Back \\ Abs </h4>
 <!-- insert videos and stuff
 --->
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
 
 <p>
  </p>
@@ -26,6 +27,7 @@
 <h4> Shoulders & Arms \\ Abs </h4>
 <!-- insert videos and stuff
 --->
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
 <p>
  </p>
 
@@ -66,6 +68,9 @@
 <!-- insert videos and stuff
 --->
 <a href="https://github.com/kcall174/p90x/blob/main/Chest,%20Shoulders,%20Triceps.md" title="Excerise List">Exercise List</a>
+<p>
+ </p>
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
 <p>
  </p>
  
