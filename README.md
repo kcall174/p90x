@@ -1,4 +1,4 @@
-<!--- html dawg (soon to be python?)
+<!--- html dawg (soon to be python? stay tuned?)
 --->
 <div style="text-align:center"><img src="https://logonoid.com/images/p90x-logo.png"></div>
 
