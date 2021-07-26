@@ -1,6 +1,6 @@
 <h3> Usage and Utility </h3>
 
-The project is supposed to be useful for thin, multiple windows, and easily accessible and transferable to mobile. User needs internet, and a browser aside from relevant workout equipment to accomplish their workouts.
+The project is supposed to be useful for thin, multiple windows, and easily accessible and transferable to mobile. User needs internet, and a browser aside from relevant workout equipment to accomplish their workouts. When I'm about to workout, I simply need a water bottle, and my phone. 
 
 
 ![Screenshot 2021-07-26 173334](https://user-images.githubusercontent.com/29552650/127062433-c4bad9ce-10e4-4c54-b540-aac2f408257b.png)
