@@ -41,7 +41,7 @@
 
 <h4> Yoga </h4>
 <!-- insert videos and stuff
---->
+---><a href="https://archive.org/details/p90x_20200810/P90X.DISC.04.Yoga.X.avi" title="Video">Yoga X</a>
 
 <p>
  </p>
