@@ -6,6 +6,10 @@ The project is supposed to be useful for thin, multiple windows, and easily acce
 ![Screenshot 2021-07-26 173334](https://user-images.githubusercontent.com/29552650/127062433-c4bad9ce-10e4-4c54-b540-aac2f408257b.png)
 
 
+<br>
+</br>
+
+
 
 <h3> Good for Night Modes and Dark Reader </h3>
 
