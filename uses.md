@@ -13,4 +13,5 @@ The project is supposed to be useful for thin, multiple windows, and easily acce
 
 <h3> Good for Night Modes and Dark Reader </h3>
 
+For mobile, I prefer Mozilla Firefox's mobile browser with Night Mode on. On computers I prefer <a href="https://darkreader.org/">Dark Reader</a>
 ![3333333333333333](https://user-images.githubusercontent.com/29552650/127062536-392d41ac-9257-4456-b953-d99b2fa594c3.png)
