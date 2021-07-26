@@ -2,9 +2,19 @@
 (end with Ab Ripper X)
 
 <br>
-<br/>
+</br>
+<br>
+</br>
+
 
 <h4> warm ups: </h4>
+ a. High Knee Raises 
+<br> b. Run in Place 
+<br> c. Wide Run in Place
+<br> d. Jumpin Jax
+</br>
+
+<h4> Workout </h4>
 
 1. Standard Push-Ups
 2. Wide Front Pull-Ups 
