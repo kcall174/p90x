@@ -5,7 +5,6 @@
 
 <!--- (BEGINNING LINKS)
 --->
-
 </br>
 - <a href="https://github.com/kcall174/p90x/blob/main/ABOUT.md" title="Excerise List">PLEASE READ THIS FIRST</a><br>
 </br>
@@ -13,6 +12,8 @@
 
 <br>
 </br>
+<!--- (WEEK 1-3)
+--->
 <h2> Week 1-3 </h2>
 
 <h4>Chest & Back \\ Abs </h4>
