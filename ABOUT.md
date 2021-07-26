@@ -23,4 +23,4 @@ Buy me a coffee with
 <a href="https://paypal.me/thenotoriouskmc?locale.x=en_US">cash or crypto</a>
 <br>
 </br>
-here: https://paypal.me/thenotoriouskmc?locale.x=en_US
+
