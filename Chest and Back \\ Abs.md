@@ -8,7 +8,7 @@
 
 
 <h4> warm ups: </h4>
- I. High Knee Raises 
+I. High Knee Raises 
 <br> II. Run in Place 
 <br> III. Wide Run in Place
 <br> IV. Jumpin Jax
@@ -21,6 +21,12 @@
 <br> XI. Circles (reverse)
 <br> XII. Pointed Down Circles (large)
 <br> XIII. Pointed Down Circles (large reverse)
+<br> XIV. Large Front Swing Shoulder Circles Forward and Back.
+<br> XV. Palms Up Reachers 
+<br> XVI. Delt and Shoulder Cross Chest Stretch.
+<br> XVII. Behind Head Stretch
+<br> XVIII. Chicken Wings 
+
 
 
 </br>
