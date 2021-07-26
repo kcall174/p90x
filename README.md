@@ -3,15 +3,19 @@
 <div style="text-align:center"><img src="https://logonoid.com/images/p90x-logo.png"></div>
 <br>
 
+
+
 <!--- (BEGINNING LINKS)
 --->
 </br>
 - <a href="https://github.com/kcall174/p90x/blob/main/ABOUT.md" title="Excerise List">PLEASE READ THIS FIRST</a><br>
 </br>
 - <a href="https://github.com/kcall174/p90x/blob/main/uses.md" title="Excerise List">USES AND UTILITY</a>
-
 <br>
 </br>
+
+
+
 <!--- (WEEK 1-3)
 --->
 <h2> Week 1-3 </h2>
@@ -29,9 +33,11 @@
  </p>
 
 
+
+
+
 <p>
  </p>
- 
 <h4> Plyometrics </h4><a href="https://github.com/kcall174/p90x/blob/main/Plyometrics.md" title="Excerise List">Exercise List</a>
 <p>
  </p>
