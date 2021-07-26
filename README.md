@@ -3,7 +3,9 @@
 <div style="text-align:center"><img src="https://logonoid.com/images/p90x-logo.png"></div>
 <br>
 </br>
-<a href="https://github.com/kcall174/p90x/blob/main/ABOUT.md" title="Excerise List">PLEASE READ THE ABOUT FIRST</a>
+- <a href="https://github.com/kcall174/p90x/blob/main/ABOUT.md" title="Excerise List">PLEASE READ THE ABOUT FIRST</a><br>
+</br>
+- <a href="https://github.com/kcall174/p90x/blob/main/uses.md" title="Excerise List">USES AND UTILITY</a>
 
 <br>
 </br>
