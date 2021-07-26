@@ -7,7 +7,6 @@
 
 <br>
 </br>
-
 <h2> Week 1-3 </h2>
 
 <h4>Chest & Back \\ Abs </h4>
