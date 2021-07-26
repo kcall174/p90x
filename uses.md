@@ -1,8 +1,5 @@
 <h3> Usage and Utility </h3>
 
-<br>
-</br>
-
 The project is supposed to be useful for thin, multiple windows, and easily accessible and transferable to mobile. User needs internet, and a browser aside from relevant workout equipment to accomplish their workouts.
 
 
@@ -10,6 +7,6 @@ The project is supposed to be useful for thin, multiple windows, and easily acce
 
 
 
-<h4> Good for Night Modes and Dark Reader </h4>
+<h3> Good for Night Modes and Dark Reader </h3>
 
 ![3333333333333333](https://user-images.githubusercontent.com/29552650/127062536-392d41ac-9257-4456-b953-d99b2fa594c3.png)
