@@ -8,11 +8,13 @@
 
 
 <h4> warm ups: </h4>
- a. High Knee Raises 
-<br> b. Run in Place 
-<br> c. Wide Run in Place
-<br> d. Jumpin Jax
-<br> e. Bravo Jax
+ I. High Knee Raises 
+<br> II. Run in Place 
+<br> III. Wide Run in Place
+<br> IV. Jumpin Jax
+<br> V. Bravo Jax
+<br> VI. Neck Stretches </br>
+<br> VII. Reachers </br>
 </br>
 
 <h4> Workout </h4>
