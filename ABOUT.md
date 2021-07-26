@@ -16,4 +16,8 @@ Donate cash or crypto to Archive.org website here: https://archive.org/donate/. 
 
 <br>
 </br>
-Buy me a coffee [cash or crypto](https://paypal.me/thenotoriouskmc?locale.x=en_US)
+Buy me a coffee with
+<a href="https://paypal.me/thenotoriouskmc?locale.x=en_US">cash or crypto</a>
+<br>
+</br>
+here: https://paypal.me/thenotoriouskmc?locale.x=en_US
