@@ -12,9 +12,17 @@
 <br> II. Run in Place 
 <br> III. Wide Run in Place
 <br> IV. Jumpin Jax
-<br> V. Bravo Jax
-<br> VI. Neck Stretches </br>
-<br> VII. Reachers </br>
+<br> V. Bravo Jax 
+<br> VI. Neck Stretches 
+<br> VII. Reachers
+<br> VIII. Left \\ Right High Arm Reachers 
+<br> IX. Thumbs Back Reachers 
+<br> X. Circles (small)
+<br> XI. Circles (reverse)
+<br> XII. Pointed Down Circles (large)
+<br> XIII. Pointed Down Circles (large reverse)
+
+
 </br>
 
 <h4> Workout </h4>
