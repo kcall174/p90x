@@ -12,6 +12,7 @@
 <br> b. Run in Place 
 <br> c. Wide Run in Place
 <br> d. Jumpin Jax
+<br> e. Bravo Jax
 </br>
 
 <h4> Workout </h4>
