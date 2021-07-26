@@ -8,9 +8,9 @@
 <!--- (BEGINNING LINKS)
 --->
 </br>
-- <a href="https://github.com/kcall174/p90x/blob/main/ABOUT.md" title="Excerise List">PLEASE READ THIS FIRST</a><br>
+- <a href="https://github.com/kcall174/p90x/blob/main/ABOUT.md"> PLEASE READ THIS FIRST</a><br>
 </br>
-- <a href="https://github.com/kcall174/p90x/blob/main/uses.md" title="Excerise List">USES AND UTILITY</a>
+- <a href="https://github.com/kcall174/p90x/blob/main/uses.md"> USES AND UTILITY</a>
 <br>
 </br>
 
