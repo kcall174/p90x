@@ -17,7 +17,4 @@ Donate cash or crypto to Archive.org website here: https://archive.org/donate/. 
   </p>
   <p>
   </p>
-donate cash: https://streamlabs.com/notoriouskmc </p>
-<p>
-  or</p>
-crypto here: https://1upcoin.com/donate/notoriouskmc
+donate cash or crypto: https://paypal.me/thenotoriouskmc?locale.x=en_US
