@@ -39,7 +39,7 @@
 <p>
  </p>
 
-<h4> Yoga </h4>
+<h4> Yoga X</h4>
 <!-- insert videos and stuff
 ---><a href="https://archive.org/details/p90x_20200810/P90X.DISC.04.Yoga.X.avi" title="Video">Yoga X</a>
 
@@ -48,7 +48,7 @@
 
 <h4> Kenpo X </h4>
 <!-- insert videos and stuff
---->
+---><a href="https://archive.org/details/p90x_20200810/P90X.DISC.06.Kenpo.X.avi" title="Video">Kenpo X</a>
 
 <p>
  </p>
