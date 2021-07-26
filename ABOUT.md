@@ -16,6 +16,11 @@ Donate cash or crypto to Archive.org website here: https://archive.org/donate/. 
 
 <br>
 </br>
+
+<h4> Other </h4>
+
+<br>
+</br>
 Buy me a coffee with
 <a href="https://paypal.me/thenotoriouskmc?locale.x=en_US">cash or crypto</a>
 <br>
