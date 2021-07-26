@@ -30,8 +30,10 @@ I. High Knee Raises
 
 
 </br>
+<br>
+</br>
 
-<h4> Workout </h4>
+<h4> Main Workout</h4>
 
 1. Standard Push-Ups
 2. Wide Front Pull-Ups 
