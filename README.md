@@ -46,12 +46,23 @@
 <p>
  </p>
  
+ 
+ 
+ 
 <h4> Shoulders & Arms \\ Abs </h4>
 <!-- insert videos and stuff
 --->
+ <a href="https://github.com/kcall174/p90x/blob/main/Shoulders%20and%20Arms.md"> Exercise List </a>
+ 
+<br>
+</br>
+
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
 <p>
  </p>
+ 
+ 
+ 
 
 <h4> Yoga X</h4>
 <!-- insert videos and stuff
@@ -60,12 +71,18 @@
 <p>
  </p>
 
+
+
+
 <h4> Kenpo X </h4>
 <!-- insert videos and stuff
 ---><a href="https://archive.org/details/p90x_20200810/P90X.DISC.06.Kenpo.X.avi" title="Video">Kenpo X</a>
 
 <p>
  </p>
+ 
+ 
+ 
  
 <h4> Rest \ Stretch \ Off </h4>
 <!-- insert videos and stuff
@@ -76,6 +93,9 @@
  
 <br>
 </br>
+
+
+
 
 <h2> Rest Week (4)</h2>
 
