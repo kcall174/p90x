@@ -19,7 +19,8 @@
 <!--- (WEEK 1-3)
 --->
 <h2> Week 1-3 </h2>
-
+<!-- CHEST AND BACK AND ABS
+--->
 <h4>Chest & Back \\ Abs </h4>
 <!-- insert videos and stuff
 ---><a href="https://github.com/kcall174/p90x/blob/main/Chest%20and%20Back%20%5C%5C%20Abs.md" title="Excerise List">Exercise List</a>
@@ -35,7 +36,8 @@
 
 
 
-
+<!-- PLYOMETRICS 
+--->
 <p>
  </p>
 <h4> Plyometrics </h4><a href="https://github.com/kcall174/p90x/blob/main/Plyometrics.md" title="Excerise List">Exercise List</a>
@@ -48,18 +50,13 @@
  
  
  
- 
+ <!-- SHOULDERS AND ARMS AND ABS
+--->
 <h4> Shoulders & Arms \\ Abs </h4>
 <!-- insert videos and stuff
 --->
- <a href="https://github.com/kcall174/p90x/blob/main/Shoulders%20and%20Arms.md"> Exercise List </a>
+<a href="https://github.com/kcall174/p90x/blob/main/Shoulders%20and%20Arms.md"> Exercise List </a>
  
- <br>
- </br>
- 
-<!---
-SHOULDERS AND ARMS VIDEO
---->
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.03.Shoulders.Arms.avi">Shoulders and Arms</a>
 
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
