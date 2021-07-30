@@ -53,13 +53,13 @@
  <!-- SHOULDERS AND ARMS AND ABS
 --->
 <h4> Shoulders & Arms \\ Abs </h4>
-<a href="https://github.com/kcall174/p90x/blob/main/Shoulders%20and%20Arms.md"> Exercise List </a>
+<a href="https://github.com/kcall174/p90x/blob/main/Shoulders%20and%20Arms.md">Exercise List</a>
 <br>
 </br>
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.03.Shoulders.Arms.avi">Shoulders and Arms</a>
 <br>
 </br>
-<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper</a>
 
 
 
