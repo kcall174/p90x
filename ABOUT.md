@@ -14,15 +14,8 @@ Make P90X completely virtualy, needing only a smart phone with an internet conne
 </br>
 
 <h4> Archive.org </h4>
-Donate cash or crypto to Archive.org website here: https://archive.org/donate/. Without them, this would have been much more tedious. If you donated to them and still wish to support me as well, then use the links below: 
-
+Donate to Archive.org website here: https://archive.org/donate/. Without them, this would have been much more tedious. 
 <br>
 </br>
 
-<h4> Other </h4>
-
-Buy me a coffee with
-<a href="https://paypal.me/thenotoriouskmc?locale.x=en_US">cash or crypto</a>
-<br>
-</br>
 
