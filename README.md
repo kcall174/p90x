@@ -101,7 +101,7 @@
 
 <h2> Rest Week (4)</h2>
 
-<h4> rest or do yoga throughout the week </h4>
+<h4> Rest or do yoga throughout the week </h4>
 
 <br>
 </br>
