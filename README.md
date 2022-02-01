@@ -102,7 +102,12 @@
 <h2> Rest Week (4)</h2>
 
 <h4> Rest or do yoga throughout the week </h4>
-Recommendation: M: Yoga, T: Rest, W: Yoga, Th: Rest, Fri: Yoga
+<b>Recommendation: </b>
+M: Yoga
+T: Rest
+W: Yoga
+Th: Rest
+Fri: Yoga
 
 <br>
 </br>
