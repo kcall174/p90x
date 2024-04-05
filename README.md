@@ -64,10 +64,8 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
 <a href="https://archive.org/details/p-90-x.-disc.-12.-ab.-ripper.-x" title="Video">Ab Ripper X</a>
 
 
-
- 
- 
-
+  <!-- YOGA
+--->
 <h4> Yoga X</h4>
 <a href="https://github.com/kcall174/p90x/blob/main/yogax.md">Exercise List</a>
 <br>
@@ -79,7 +77,8 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
 
 
 
-
+  <!-- KENPO
+--->
 <h4> Kenpo X </h4>
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.06.Kenpo.X.avi" title="Video">Kenpo X</a>
 
@@ -88,10 +87,10 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
  
  
  
- 
-<h4> Rest \ Stretch \ Off </h4>
-<!-- insert videos and stuff
+   <!-- REST DAY
 --->
+<h4> Rest \ Stretch \ Off </h4>
+
 
 <p>
  </p>
@@ -101,7 +100,8 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
 
 
 
-
+  <!-- REST WEEK
+--->
 <h2> Rest Week (4)</h2>
 
 <h4> Rest or do yoga throughout the week </h4>
@@ -155,9 +155,12 @@ ab ripper x
 -->
 <a href="https://archive.org/details/p-90-x.-disc.-12.-ab.-ripper.-x" title="Video">Ab Ripper X</a>
 
-<h4> Yoga </h4>
+  <!-- YOGA
+--->
+<h4> Yoga X</h4>
 <a href="https://github.com/kcall174/p90x/blob/main/yogax.md">Exercise List</a>
 <br>
+</br>
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.04.Yoga.X.avi" title="Video">Yoga X</a>
 
 
