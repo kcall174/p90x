@@ -31,7 +31,7 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
 <a href="https://archive.org/details/img-2024_202005/IMG_1995.mp45" title="Video">Chest and Back</a>
 <p>
  </p>
-<a href="https://archive.org/details/img-0693_202005/IMG_0691.MOV" title="Video">Ab Ripper X</a>
+<a href="https://archive.org/details/p-90-x.-disc.-12.-ab.-ripper.-x" title="Video">Ab Ripper X</a>
 <p>
  </p>
 
@@ -61,7 +61,7 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.03.Shoulders.Arms.avi">Shoulders and Arms</a>
 <br>
 </br>
-<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper</a>
+<a href="https://archive.org/details/p-90-x.-disc.-12.-ab.-ripper.-x" title="Video">Ab Ripper X</a>
 
 
 
@@ -124,7 +124,7 @@ Fri: Yoga </br>
 <p>
  </p>
  
-<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X </a>
  
 <p>
  </p>
@@ -152,7 +152,7 @@ Fri: Yoga </br>
 <!--
 ab ripper x
 -->
-<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
+<a href="https://archive.org/details/p-90-x.-disc.-12.-ab.-ripper.-x" title="Video">Ab Ripper X</a>
 
 <h4> Yoga </h4>
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.04.Yoga.X.avi" title="Video">Yoga X</a>
@@ -169,7 +169,7 @@ ab ripper x
 <p>
  </p>
  
-<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
+<a href="https://archive.org/details/p-90-x.-disc.-12.-ab.-ripper.-x" title="Video">Ab Ripper X</a>
 
 <p>
  </p>
