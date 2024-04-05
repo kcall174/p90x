@@ -69,8 +69,10 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
  
 
 <h4> Yoga X</h4>
-<!-- insert videos and stuff
----><a href="https://archive.org/details/p90x_20200810/P90X.DISC.04.Yoga.X.avi" title="Video">Yoga X</a>
+<a href="https://github.com/kcall174/p90x/blob/main/yogax.md">Exercise List</a>
+<br>
+</br>
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.04.Yoga.X.avi" title="Video">Yoga X</a>
 
 <p>
  </p>
@@ -79,8 +81,7 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
 
 
 <h4> Kenpo X </h4>
-<!-- insert videos and stuff
----><a href="https://archive.org/details/p90x_20200810/P90X.DISC.06.Kenpo.X.avi" title="Video">Kenpo X</a>
+<a href="https://archive.org/details/p90x_20200810/P90X.DISC.06.Kenpo.X.avi" title="Video">Kenpo X</a>
 
 <p>
  </p>
