@@ -7,6 +7,8 @@
 
 <h1> The Mission </h1>
 Make P90X completely virtual, needing only a smart phone with an internet connection to accomplish your workout. 
+
+<h2> latest update: the videos that used to be linked in here were repeatedly being taken down, therefore I recommend searching Internet Archive for the videos if a link isn't working</h2>
 <br>
 <br>
 - <a href="https://github.com/kcall174/p90x/blob/main/uses.md"> USES AND UTILITY</a>
