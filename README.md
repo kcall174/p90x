@@ -13,7 +13,7 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
 
 
 
-<h3> latest update: the videos that are linked in here are/were repeatedly being taken down, therefore I recommend searching Internet Archive for the video(s) if a link isn't working.</h3>
+<h3> latest update: the videos that are linked in here are/were repeatedly being taken down, therefore I recommend using the Exercise List or searching Internet Archive for the video(s) if a link isn't working.</h3>
 
 <br>
 
