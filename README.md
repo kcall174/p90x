@@ -5,16 +5,14 @@
 
 
 
-<!--- (BEGINNING LINKS)
---->
-</br>
-- <a href="https://github.com/kcall174/p90x/blob/main/ABOUT.md"> PLEASE READ THIS FIRST</a><br>
-</br>
-- <a href="https://github.com/kcall174/p90x/blob/main/uses.md"> USES AND UTILITY</a>
+<h1> The Mission </h1>
+Make P90X completely virtual, needing only a smart phone with an internet connection to accomplish your workout. 
 <br>
-</br>
+<br>
+- <a href="https://github.com/kcall174/p90x/blob/main/uses.md"> USES AND UTILITY</a>
 
 
+<br>
 
 <!--- (WEEK 1-3)
 --->
