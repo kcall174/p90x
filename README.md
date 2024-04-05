@@ -24,10 +24,10 @@ Make P90X completely virtual, needing only a smart phone with an internet connec
 ---><a href="https://github.com/kcall174/p90x/blob/main/Chest%20and%20Back%20%5C%5C%20Abs.md" title="Excerise List">Exercise List</a>
 <p>
  </p>
-<a href="https://archive.org/details/img-2024_202005" title="Video">Chest and Back</a>
+<a href="https://archive.org/details/img-2024_202005/IMG_1995.mp45" title="Video">Chest and Back</a>
 <p>
  </p>
-<a href="https://archive.org/details/p90x_20200810/P90X.DISC.12.Ab.Ripper.avi" title="Video">Ab Ripper X</a>
+<a href="https://archive.org/details/img-0693_202005/IMG_0691.MOV" title="Video">Ab Ripper X</a>
 <p>
  </p>
 
