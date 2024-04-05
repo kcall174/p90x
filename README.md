@@ -156,6 +156,8 @@ ab ripper x
 <a href="https://archive.org/details/p-90-x.-disc.-12.-ab.-ripper.-x" title="Video">Ab Ripper X</a>
 
 <h4> Yoga </h4>
+<a href="https://github.com/kcall174/p90x/blob/main/yogax.md">Exercise List</a>
+<br>
 <a href="https://archive.org/details/p90x_20200810/P90X.DISC.04.Yoga.X.avi" title="Video">Yoga X</a>
 
 
